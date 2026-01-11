@@ -28,6 +28,14 @@
 [PRINCIPLE_5_DESCRIPTION]
 <!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
 
+## Sources of Truth
+<!-- Example: Requirements and scope live in Linear; engineering standards live in AGENTS.md -->
+
+- **Requirements, scope, and status**: [REQUIREMENTS_SOURCE]
+<!-- Example: Linear: PROJ-123 (epics, acceptance criteria, status) -->
+- **Engineering standards and decision rules**: [ENGINEERING_GUIDE]
+<!-- Example: AGENTS.md (repo root) -->
+
 ## [SECTION_2_NAME]
 <!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
 
